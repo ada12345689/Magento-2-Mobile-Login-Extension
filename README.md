@@ -8,10 +8,10 @@ MageComp's [Magento 2 Mobile OTP Login](https://magecomp.com/magento-2-mobile-lo
 
 ## What are the benefits of MageComp’s Mobile Login Extension for Magento 2?
 
-●	Quickly Register/Login/Forgot Password directly via mobile number 
-●	Both Login via Password and login via OTP functionality.
-●	Ask for any type of SMS API integration as per your desire.
-●	Sends email notifications to every login attempt for safety.
-●	Featured tab to set a custom message for all the mobile login events.
-●	Enhanced option for selecting desired countries to allow mobile login functionality.
-●	Customers can easily update mobile numbers via OTP from my account section at the frontend.
+- Quickly Register/Login/Forgot Password directly via mobile number 
+- Both Login via Password and login via OTP functionality.
+- Ask for any type of SMS API integration as per your desire.
+- Sends email notifications to every login attempt for safety.
+- Featured tab to set a custom message for all the mobile login events.
+- Enhanced option for selecting desired countries to allow mobile login functionality.
+- Customers can easily update mobile numbers via OTP from my account section at the frontend.
